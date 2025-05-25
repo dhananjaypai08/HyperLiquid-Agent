@@ -1,0 +1,95 @@
+{
+  "vaultName": "Hyperliquidity Provider (HLP)",
+  "vaultAddress": "0xdfc24b077bc1425ad1dea75bcb6f8158e10df303",
+  "description": "This community-owned vault provides liquidity to Hyperliquid through multiple market making strategies, performs liquidations, and accrues platform fees.",
+  "apr": 15.11,
+  "maxDistributable": 121066403.81,
+  "maxWithdrawable": 0,
+  "isClosed": false,
+  "allowDeposits": true,
+  "alwaysCloseOnWithdraw": false,
+  "leader": "0x677d831aef5328190852e24f13c46cac05f984e7",
+  "leaderFraction": 0.09,
+  "leaderCommission": 0,
+  "latestPerformance": {
+    "day": {
+      "latestAccountValue": 335687749.965999,
+      "timestamp": 1748176353813,
+      "latestPnl": 127772.620568,
+      "totalVolume": 0
+    },
+    "week": {
+      "latestAccountValue": 335687749.965999,
+      "timestamp": 1748176353813,
+      "latestPnl": 867312.135484,
+      "totalVolume": 0
+    },
+    "month": {
+      "latestAccountValue": 335687749.965999,
+      "timestamp": 1748176353813,
+      "latestPnl": 2986464.130285,
+      "totalVolume": 0
+    },
+    "allTime": {
+      "latestAccountValue": 335687749.965999,
+      "timestamp": 1748176353813,
+      "latestPnl": 64630176.954637,
+      "totalVolume": 0
+    },
+    "perpDay": {
+      "latestAccountValue": 121066403.810043,
+      "timestamp": 1748176353813,
+      "latestPnl": 66423.902883,
+      "totalVolume": 0
+    },
+    "perpWeek": {
+      "latestAccountValue": 121066403.810043,
+      "timestamp": 1748176353813,
+      "latestPnl": 688777.188055,
+      "totalVolume": 0
+    },
+    "perpMonth": {
+      "latestAccountValue": 121066403.810043,
+      "timestamp": 1748176353813,
+      "latestPnl": 1850658.938387,
+      "totalVolume": 0
+    },
+    "perpAllTime": {
+      "latestAccountValue": 121066403.810043,
+      "timestamp": 1748176353813,
+      "latestPnl": 74245775.851182,
+      "totalVolume": 0
+    }
+  },
+  "followerStats": {
+    "totalFollowers": 100,
+    "totalEquity": 175878120.99,
+    "averageEquity": 1758781.21,
+    "totalPnl": 5870744.95,
+    "totalAllTimePnl": 10975108.67,
+    "averageDaysFollowing": 216,
+    "topFollowers": [
+      {
+        "user": "0xd507eeef2152d54b8c00cba499340f7b7a59c948",
+        "equity": 9020988.36,
+        "pnl": 20978.36,
+        "daysFollowing": 483
+      },
+      {
+        "user": "0x9f6fed26339789725b0751f57aeac23367ceee57",
+        "equity": 8003099.05,
+        "pnl": 59457.99,
+        "daysFollowing": 435
+      },
+      {
+        "user": "0x007d76eec0ba411ce873a8819df50dd443d967a0",
+        "equity": 6782626.6,
+        "pnl": 90060.87,
+        "daysFollowing": 171
+      }
+    ]
+  },
+  "hasChildVaults": true,
+  "isChildVault": false,
+  "lastUpdated": "2025-05-25T12:32:34.252Z"
+}

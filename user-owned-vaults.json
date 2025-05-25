@@ -1,0 +1,762 @@
+{
+  "0x2097ae67d7b183c5e6ab11eccebe7c70fb280e2b": {
+    "vaultName": "Rektober ",
+    "vaultAddress": "0x2097ae67d7b183c5e6ab11eccebe7c70fb280e2b",
+    "description": "Twitter: @rektober",
+    "apr": 0,
+    "maxDistributable": 0,
+    "maxWithdrawable": 0,
+    "isClosed": true,
+    "allowDeposits": true,
+    "alwaysCloseOnWithdraw": false,
+    "leader": "0x899d90457c8f179d35ba0893fb32d145009f90c0",
+    "leaderFraction": 7.47,
+    "leaderCommission": 0.1,
+    "latestPerformance": {
+      "day": {
+        "latestAccountValue": 0.000206,
+        "timestamp": 1748176356949,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "week": {
+        "latestAccountValue": 0.000206,
+        "timestamp": 1748176356949,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "month": {
+        "latestAccountValue": 0.000206,
+        "timestamp": 1748176356949,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "allTime": {
+        "latestAccountValue": 0.000206,
+        "timestamp": 1748176356949,
+        "latestPnl": -1193250.224756,
+        "totalVolume": 64315851.280565
+      },
+      "perpDay": {
+        "latestAccountValue": 0.000206,
+        "timestamp": 1748176356949,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpWeek": {
+        "latestAccountValue": 0.000206,
+        "timestamp": 1748176356949,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpMonth": {
+        "latestAccountValue": 0.000206,
+        "timestamp": 1748176356949,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpAllTime": {
+        "latestAccountValue": 0.000206,
+        "timestamp": 1748176356949,
+        "latestPnl": -1193250.224756,
+        "totalVolume": 64315851.280565
+      }
+    },
+    "followerStats": {
+      "totalFollowers": 100,
+      "totalEquity": 0,
+      "averageEquity": 0,
+      "totalPnl": 0,
+      "totalAllTimePnl": -1039113.49,
+      "averageDaysFollowing": 142,
+      "topFollowers": [
+        {
+          "user": "0xaf6c8aab13e19d7517e3d34ae81797e3f740ef6a",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 142
+        },
+        {
+          "user": "Leader",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 143
+        },
+        {
+          "user": "0xdfcec744c8417d2a0ef72fe520438dd20f368369",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 143
+        }
+      ]
+    },
+    "hasChildVaults": false,
+    "isChildVault": false,
+    "lastUpdated": "2025-05-25T12:32:37.264Z"
+  },
+  "0xa671357791d0f31eebf135b9a05a0bfac5ba575e": {
+    "vaultName": "[A] Ventures | IVA labs",
+    "vaultAddress": "0xa671357791d0f31eebf135b9a05a0bfac5ba575e",
+    "description": "This vault by IVA Labs focuses on investing in blue-chip tokens, carefully selected by the IVA Labs team. Positions are strategically managed, offering an alternative to the “Looping Strategy” with a ...",
+    "apr": 1010.57,
+    "maxDistributable": 913673.92,
+    "maxWithdrawable": 0,
+    "isClosed": false,
+    "allowDeposits": true,
+    "alwaysCloseOnWithdraw": false,
+    "leader": "0x2aab3badd6a5daa388da47de4c72a6fa618a6265",
+    "leaderFraction": 22.17,
+    "leaderCommission": 0.1,
+    "latestPerformance": {
+      "day": {
+        "latestAccountValue": 914125.021229,
+        "timestamp": 1748176357252,
+        "latestPnl": -43780.615426,
+        "totalVolume": 0
+      },
+      "week": {
+        "latestAccountValue": 914125.021229,
+        "timestamp": 1748176357252,
+        "latestPnl": 113743.649553,
+        "totalVolume": 1606025.48416
+      },
+      "month": {
+        "latestAccountValue": 914125.021229,
+        "timestamp": 1748176357252,
+        "latestPnl": 461577.471914,
+        "totalVolume": 1606025.48416
+      },
+      "allTime": {
+        "latestAccountValue": 914125.021229,
+        "timestamp": 1748176357252,
+        "latestPnl": -127712.158713,
+        "totalVolume": 63529711.26755
+      },
+      "perpDay": {
+        "latestAccountValue": 914125.021229,
+        "timestamp": 1748176357252,
+        "latestPnl": -43780.615426,
+        "totalVolume": 0
+      },
+      "perpWeek": {
+        "latestAccountValue": 914125.021229,
+        "timestamp": 1748176357252,
+        "latestPnl": 113743.649553,
+        "totalVolume": 1606025.48416
+      },
+      "perpMonth": {
+        "latestAccountValue": 914125.021229,
+        "timestamp": 1748176357252,
+        "latestPnl": 461577.471914,
+        "totalVolume": 1606025.48416
+      },
+      "perpAllTime": {
+        "latestAccountValue": 914125.021229,
+        "timestamp": 1748176357252,
+        "latestPnl": -127712.158713,
+        "totalVolume": 63529711.26755
+      }
+    },
+    "followerStats": {
+      "totalFollowers": 100,
+      "totalEquity": 908499.93,
+      "averageEquity": 9085,
+      "totalPnl": -524646.46,
+      "totalAllTimePnl": -178275.3,
+      "averageDaysFollowing": 108,
+      "topFollowers": [
+        {
+          "user": "Leader",
+          "equity": 202643.66,
+          "pnl": -81401.12,
+          "daysFollowing": 267
+        },
+        {
+          "user": "0x4ae6de3d7f21132655fe2133367be8df09f9d1c5",
+          "equity": 156163.39,
+          "pnl": 32420.83,
+          "daysFollowing": 241
+        },
+        {
+          "user": "0xea87c743a1933bbb8b8947688ab0eed25d3bf72d",
+          "equity": 83884.77,
+          "pnl": 18769.74,
+          "daysFollowing": 88
+        }
+      ]
+    },
+    "hasChildVaults": false,
+    "isChildVault": false,
+    "lastUpdated": "2025-05-25T12:32:37.821Z"
+  },
+  "0x44ad39b3329359cc4a8f531a661b0f205f3aa5bb": {
+    "vaultName": "Moon Capital 🌙",
+    "vaultAddress": "0x44ad39b3329359cc4a8f531a661b0f205f3aa5bb",
+    "description": "As the leader of this vault I will receive a 10% profit share on users invested funds (IF ANY PROFIT AT ALL!). I will be using this profit (if any) to do buy backs / burns / marketing / exchanges for ...",
+    "apr": 23.63,
+    "maxDistributable": 0,
+    "maxWithdrawable": 0,
+    "isClosed": true,
+    "allowDeposits": true,
+    "alwaysCloseOnWithdraw": false,
+    "leader": "0x5078c2fbea2b2ad61bc840bc023e35fce56bedb6",
+    "leaderFraction": 96.47,
+    "leaderCommission": 0.1,
+    "latestPerformance": {
+      "day": {
+        "latestAccountValue": 0.000104,
+        "timestamp": 1748176357676,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "week": {
+        "latestAccountValue": 0.000104,
+        "timestamp": 1748176357676,
+        "latestPnl": 905788.573911,
+        "totalVolume": 48482547.95381
+      },
+      "month": {
+        "latestAccountValue": 0.000104,
+        "timestamp": 1748176357676,
+        "latestPnl": 224694.140047,
+        "totalVolume": 355864206.52474
+      },
+      "allTime": {
+        "latestAccountValue": 0.000104,
+        "timestamp": 1748176357676,
+        "latestPnl": 224694.140047,
+        "totalVolume": 355864206.52474
+      },
+      "perpDay": {
+        "latestAccountValue": 0.000104,
+        "timestamp": 1748176357676,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpWeek": {
+        "latestAccountValue": 0.000104,
+        "timestamp": 1748176357676,
+        "latestPnl": 905788.573911,
+        "totalVolume": 48482547.95381
+      },
+      "perpMonth": {
+        "latestAccountValue": 0.000104,
+        "timestamp": 1748176357676,
+        "latestPnl": 224694.140047,
+        "totalVolume": 355864206.52474
+      },
+      "perpAllTime": {
+        "latestAccountValue": 0.000104,
+        "timestamp": 1748176357676,
+        "latestPnl": 224694.140047,
+        "totalVolume": 355864206.52474
+      }
+    },
+    "followerStats": {
+      "totalFollowers": 100,
+      "totalEquity": 0,
+      "averageEquity": 0,
+      "totalPnl": 0,
+      "totalAllTimePnl": 245331.58,
+      "averageDaysFollowing": 13,
+      "topFollowers": [
+        {
+          "user": "Leader",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 14
+        },
+        {
+          "user": "0x268f52086f04685965e55a09458e51006c7b024e",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 14
+        },
+        {
+          "user": "0xcdd4224bc1ef69fdd87bf64b6249611748ba3254",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 14
+        }
+      ]
+    },
+    "hasChildVaults": false,
+    "isChildVault": false,
+    "lastUpdated": "2025-05-25T12:32:38.341Z"
+  },
+  "0x1962905b0a2d0ce7907ae1a0d17f3e4a1f63dfb7": {
+    "vaultName": "outpxce [friendtech]",
+    "vaultAddress": "0x1962905b0a2d0ce7907ae1a0d17f3e4a1f63dfb7",
+    "description": "exclusive vault for friendtech holders",
+    "apr": 0,
+    "maxDistributable": 19316.48,
+    "maxWithdrawable": 0,
+    "isClosed": false,
+    "allowDeposits": false,
+    "alwaysCloseOnWithdraw": false,
+    "leader": "0x34b00c8859fe9c4e8b3e94391abbe41eb5da6a6b",
+    "leaderFraction": 89.53,
+    "leaderCommission": 0.1,
+    "latestPerformance": {
+      "day": {
+        "latestAccountValue": 19428.172301,
+        "timestamp": 1748176358417,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "week": {
+        "latestAccountValue": 19428.172301,
+        "timestamp": 1748176358417,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "month": {
+        "latestAccountValue": 19428.172301,
+        "timestamp": 1748176358417,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "allTime": {
+        "latestAccountValue": 19428.172301,
+        "timestamp": 1748176358417,
+        "latestPnl": -911774.696504,
+        "totalVolume": 239012599.73028
+      },
+      "perpDay": {
+        "latestAccountValue": 19428.172301,
+        "timestamp": 1748176358417,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpWeek": {
+        "latestAccountValue": 19428.172301,
+        "timestamp": 1748176358417,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpMonth": {
+        "latestAccountValue": 19428.172301,
+        "timestamp": 1748176358417,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpAllTime": {
+        "latestAccountValue": 19428.172301,
+        "timestamp": 1748176358417,
+        "latestPnl": 146095.215542,
+        "totalVolume": 239012599.73028
+      }
+    },
+    "followerStats": {
+      "totalFollowers": 100,
+      "totalEquity": 19403.58,
+      "averageEquity": 194.04,
+      "totalPnl": -482456.76,
+      "totalAllTimePnl": -491781.07,
+      "averageDaysFollowing": 436,
+      "topFollowers": [
+        {
+          "user": "Leader",
+          "equity": 17393.9,
+          "pnl": -306340.87,
+          "daysFollowing": 529
+        },
+        {
+          "user": "0x220a5909ff5ae3a6cff470550fe9d5ea3d58e377",
+          "equity": 778.37,
+          "pnl": -57261.13,
+          "daysFollowing": 390
+        },
+        {
+          "user": "0x3ce771263bb57e924f75b695adff3d5e7b0aa8a3",
+          "equity": 245.35,
+          "pnl": -26581.25,
+          "daysFollowing": 493
+        }
+      ]
+    },
+    "hasChildVaults": false,
+    "isChildVault": false,
+    "lastUpdated": "2025-05-25T12:32:38.939Z"
+  },
+  "0x4188e635ec9e5ca46791bc1c425f0cd9c0a8188a": {
+    "vaultName": "I Don't Know What I'm Doing",
+    "vaultAddress": "0x4188e635ec9e5ca46791bc1c425f0cd9c0a8188a",
+    "description": "why are you, a liquid market participant, investing in a clueless anon?",
+    "apr": 0,
+    "maxDistributable": 0,
+    "maxWithdrawable": 0,
+    "isClosed": true,
+    "allowDeposits": true,
+    "alwaysCloseOnWithdraw": false,
+    "leader": "0x19d4f26fb746e15e9a075c9e9180e1342bd7680b",
+    "leaderFraction": 5.75,
+    "leaderCommission": 0.1,
+    "latestPerformance": {
+      "day": {
+        "latestAccountValue": 0.000292,
+        "timestamp": 1748176359130,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "week": {
+        "latestAccountValue": 0.000292,
+        "timestamp": 1748176359130,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "month": {
+        "latestAccountValue": 0.000292,
+        "timestamp": 1748176359130,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "allTime": {
+        "latestAccountValue": 0.000292,
+        "timestamp": 1748176359130,
+        "latestPnl": 1539491.379211,
+        "totalVolume": 741548574.080312
+      },
+      "perpDay": {
+        "latestAccountValue": 0.000292,
+        "timestamp": 1748176359130,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpWeek": {
+        "latestAccountValue": 0.000292,
+        "timestamp": 1748176359130,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpMonth": {
+        "latestAccountValue": 0.000292,
+        "timestamp": 1748176359130,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpAllTime": {
+        "latestAccountValue": 0.000292,
+        "timestamp": 1748176359130,
+        "latestPnl": 1588.088182,
+        "totalVolume": 741548574.080312
+      }
+    },
+    "followerStats": {
+      "totalFollowers": 100,
+      "totalEquity": 0,
+      "averageEquity": 0,
+      "totalPnl": 0,
+      "totalAllTimePnl": 577776.86,
+      "averageDaysFollowing": 414,
+      "topFollowers": [
+        {
+          "user": "0x3a521a51426d446e7ddc2cc1bd4fb7b72b407806",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 406
+        },
+        {
+          "user": "0x93a7c7ec2ef20e25fa1e2e9a0e2465eb10efa4dc",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 396
+        },
+        {
+          "user": "0x5aceb63d52d0d7081a72f254401893ffcf81381a",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 541
+        }
+      ]
+    },
+    "hasChildVaults": false,
+    "isChildVault": false,
+    "lastUpdated": "2025-05-25T12:32:39.549Z"
+  },
+  "0x4a0aee02132a411cfcf79a486f0e2d7c5152e94a": {
+    "vaultName": "DJ_",
+    "vaultAddress": "0x4a0aee02132a411cfcf79a486f0e2d7c5152e94a",
+    "description": "DJ________",
+    "apr": 0,
+    "maxDistributable": 118.44,
+    "maxWithdrawable": 0,
+    "isClosed": false,
+    "allowDeposits": true,
+    "alwaysCloseOnWithdraw": false,
+    "leader": "0x2ac1fa38a82738c3875b3ac385fbade067e3d123",
+    "leaderFraction": 51.52,
+    "leaderCommission": 0.1,
+    "latestPerformance": {
+      "day": {
+        "latestAccountValue": 312.545819,
+        "timestamp": 1748176359566,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "week": {
+        "latestAccountValue": 312.545819,
+        "timestamp": 1748176359566,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "month": {
+        "latestAccountValue": 312.545819,
+        "timestamp": 1748176359566,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "allTime": {
+        "latestAccountValue": 312.545819,
+        "timestamp": 1748176359566,
+        "latestPnl": 1998641.751721,
+        "totalVolume": 354453208.726694
+      },
+      "perpDay": {
+        "latestAccountValue": 312.545819,
+        "timestamp": 1748176359566,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpWeek": {
+        "latestAccountValue": 312.545819,
+        "timestamp": 1748176359566,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpMonth": {
+        "latestAccountValue": 312.545819,
+        "timestamp": 1748176359566,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpAllTime": {
+        "latestAccountValue": 312.545819,
+        "timestamp": 1748176359566,
+        "latestPnl": 1356091.933053,
+        "totalVolume": 354453208.726694
+      }
+    },
+    "followerStats": {
+      "totalFollowers": 342,
+      "totalEquity": 312.55,
+      "averageEquity": 0.91,
+      "totalPnl": -35255.43,
+      "totalAllTimePnl": 1998641.75,
+      "averageDaysFollowing": 305,
+      "topFollowers": [
+        {
+          "user": "Leader",
+          "equity": 161.02,
+          "pnl": -587.21,
+          "daysFollowing": 430
+        },
+        {
+          "user": "0x263ff94cdc4913cd36efda07f153ce43860873ad",
+          "equity": 36.69,
+          "pnl": -9963.31,
+          "daysFollowing": 296
+        },
+        {
+          "user": "0x0d92b615a94361bc89817db6b15efac43a618e2c",
+          "equity": 22.5,
+          "pnl": -79.65,
+          "daysFollowing": 158
+        }
+      ]
+    },
+    "hasChildVaults": false,
+    "isChildVault": false,
+    "lastUpdated": "2025-05-25T12:32:40.074Z"
+  },
+  "0x8fc7c0442e582bca195978c5a4fdec2e7c5bb0f7": {
+    "vaultName": "Elsewhere",
+    "vaultAddress": "0x8fc7c0442e582bca195978c5a4fdec2e7c5bb0f7",
+    "description": "Discretionary L/S. Value-oriented.",
+    "apr": -77.47,
+    "maxDistributable": 249146.85,
+    "maxWithdrawable": 0,
+    "isClosed": false,
+    "allowDeposits": false,
+    "alwaysCloseOnWithdraw": false,
+    "leader": "0xf5d0308ac17a33e666326df43788afaa4100b9eb",
+    "leaderFraction": 7.77,
+    "leaderCommission": 0.1,
+    "latestPerformance": {
+      "day": {
+        "latestAccountValue": 250433.722935,
+        "timestamp": 1748176360042,
+        "latestPnl": 49622.511594,
+        "totalVolume": 1523022.58093
+      },
+      "week": {
+        "latestAccountValue": 250433.722935,
+        "timestamp": 1748176360042,
+        "latestPnl": -357250.414248,
+        "totalVolume": 17343700.536501
+      },
+      "month": {
+        "latestAccountValue": 250433.722935,
+        "timestamp": 1748176360042,
+        "latestPnl": -1142692.463009,
+        "totalVolume": 25645436.362164
+      },
+      "allTime": {
+        "latestAccountValue": 250433.722935,
+        "timestamp": 1748176360042,
+        "latestPnl": 188448.482303,
+        "totalVolume": 257632878.848997
+      },
+      "perpDay": {
+        "latestAccountValue": 250433.722935,
+        "timestamp": 1748176360042,
+        "latestPnl": 49622.511594,
+        "totalVolume": 1523022.58093
+      },
+      "perpWeek": {
+        "latestAccountValue": 250433.722935,
+        "timestamp": 1748176360042,
+        "latestPnl": -357250.414248,
+        "totalVolume": 17343700.536501
+      },
+      "perpMonth": {
+        "latestAccountValue": 250433.722935,
+        "timestamp": 1748176360042,
+        "latestPnl": -1142692.463009,
+        "totalVolume": 25645436.362164
+      },
+      "perpAllTime": {
+        "latestAccountValue": 250433.722935,
+        "timestamp": 1748176360042,
+        "latestPnl": 188448.482303,
+        "totalVolume": 257632878.848997
+      }
+    },
+    "followerStats": {
+      "totalFollowers": 59,
+      "totalEquity": 250433.72,
+      "averageEquity": 4244.64,
+      "totalPnl": 125854.04,
+      "totalAllTimePnl": 188448.48,
+      "averageDaysFollowing": 303,
+      "topFollowers": [
+        {
+          "user": "0x7dacca323e44f168494c779bb5e7483c468ef410",
+          "equity": 46978.95,
+          "pnl": 24978.95,
+          "daysFollowing": 318
+        },
+        {
+          "user": "0x9ecd3f09f4c6d9cf04728fc9de4feed87dfa4683",
+          "equity": 41827.18,
+          "pnl": 21827.18,
+          "daysFollowing": 318
+        },
+        {
+          "user": "0x02c29a0c85a0f899ac7e86e286ae3590be8ad1e2",
+          "equity": 32411.45,
+          "pnl": 22661.5,
+          "daysFollowing": 323
+        }
+      ]
+    },
+    "hasChildVaults": false,
+    "isChildVault": false,
+    "lastUpdated": "2025-05-25T12:32:40.496Z"
+  },
+  "0xb44f54c16ef229a459c26e9dc2d00f80936f66c5": {
+    "vaultName": "DWF Labs Test",
+    "vaultAddress": "0xb44f54c16ef229a459c26e9dc2d00f80936f66c5",
+    "description": "Test vault short/long strategy",
+    "apr": 0,
+    "maxDistributable": 0,
+    "maxWithdrawable": 0,
+    "isClosed": true,
+    "allowDeposits": true,
+    "alwaysCloseOnWithdraw": false,
+    "leader": "0x23b886aceeb71458c96792ffd447352c277f820e",
+    "leaderFraction": 15.15,
+    "leaderCommission": 0.1,
+    "latestPerformance": {
+      "day": {
+        "latestAccountValue": 0.000088,
+        "timestamp": 1748176360578,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "week": {
+        "latestAccountValue": 0.000088,
+        "timestamp": 1748176360578,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "month": {
+        "latestAccountValue": 0.000088,
+        "timestamp": 1748176360578,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "allTime": {
+        "latestAccountValue": 0.000088,
+        "timestamp": 1748176360578,
+        "latestPnl": 48144.042938,
+        "totalVolume": 14131491.865798
+      },
+      "perpDay": {
+        "latestAccountValue": 0.000088,
+        "timestamp": 1748176360578,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpWeek": {
+        "latestAccountValue": 0.000088,
+        "timestamp": 1748176360578,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpMonth": {
+        "latestAccountValue": 0.000088,
+        "timestamp": 1748176360578,
+        "latestPnl": 0,
+        "totalVolume": 0
+      },
+      "perpAllTime": {
+        "latestAccountValue": 0.000088,
+        "timestamp": 1748176360578,
+        "latestPnl": 41835.671638,
+        "totalVolume": 14131491.865798
+      }
+    },
+    "followerStats": {
+      "totalFollowers": 100,
+      "totalEquity": 0,
+      "averageEquity": 0,
+      "totalPnl": 0,
+      "totalAllTimePnl": -7908.17,
+      "averageDaysFollowing": 475,
+      "topFollowers": [
+        {
+          "user": "0x4db5c56c9863d41f53d991fb2e5f638418c92e5b",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 516
+        },
+        {
+          "user": "Leader",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 544
+        },
+        {
+          "user": "0xd603a49886c9b500f96c0d798aed10068d73bf7c",
+          "equity": 0,
+          "pnl": 0,
+          "daysFollowing": 454
+        }
+      ]
+    },
+    "hasChildVaults": false,
+    "isChildVault": false,
+    "lastUpdated": "2025-05-25T12:32:41.010Z"
+  }
+}
